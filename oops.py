@@ -326,3 +326,5 @@
 #     print('resource close')
 
 print("bye")
+""" the whole oops program on telusko python playlist
+"""
