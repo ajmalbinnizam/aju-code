@@ -324,3 +324,5 @@
 #     print('exception==',e)
 # finally:
 #     print('resource close')
+
+print("bye")
