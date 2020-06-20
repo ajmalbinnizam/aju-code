@@ -1,3 +1,4 @@
+print('It\'s a bad string!')
 a=int(input("your number"))
 b=input()
 c=10

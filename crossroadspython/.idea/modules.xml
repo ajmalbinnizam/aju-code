@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/crossroadspython.iml" filepath="$PROJECT_DIR$/.idea/crossroadspython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple chatty bot/.idea/simple chatty bot.iml" filepath="$PROJECT_DIR$/../simple chatty bot/.idea/simple chatty bot.iml" />
     </modules>
   </component>
 </project>
