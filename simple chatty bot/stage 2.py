@@ -21,6 +21,20 @@
 # print('Cinnamon roll day is celebrated on', month, day)
 # # Cinnamon roll day is celebrated on October 4
 
-n = int(input())
-word = input()
-print(n * word)
+# n = int(input())
+# word = input()
+# print(n * word)
+
+# user = input()
+# print("Hello, " + user)
+
+# print('Hello! My name is Aid.')
+# print('I was created in 2020.')
+# print('Please, remind me your name.')
+# user = input()
+# print('What a great name you have, ' + user + '!')
+
+# print("""\
+# O X X
+# O X O
+# X O X""")
